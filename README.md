@@ -25,3 +25,7 @@ keywords = {co-clustering, federated recommendation, supervised contrastive lear
 location = {Singapore, Singapore},
 series = {WWW '24}
 }
+
+# Acknowledgement
+
+We reuse some part of the code in [PFedRec] (https://github.com/Zhangcx19/IJCAI-23-PFedRec)
