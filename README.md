@@ -4,7 +4,7 @@ Repo for paper [Co-clustering for Federated Recommender System](https://dl.acm.o
 
 # Usage
 
-For example, to run the script with Diabetes dataset, use:
+For example, to run the script with Movielens 100k dataset, use:
 
 ``` python train_supcon.py --dataset "100k" --item_cluster 60 --reg 0.005 --cl_t 0.1 --lr 0.1```
 # Citation
